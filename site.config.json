@@ -1,0 +1,49 @@
+{
+  "_comment": "Every real detail on the website comes from this file. Anything wrapped in [square brackets] is a placeholder waiting for your information - search the built site for '[' to find any you have missed. Change a value here, run `python build.py`, and it updates on every page.",
+
+  "academy_name": "[Academy Name] Girls Cricket Academy",
+  "short_name": "[Academy Name]",
+  "tagline": "Where girls play, grow and belong.",
+  "default_description": "A volunteer-led cricket academy for girls. Come and learn the game, make friends, and find out what you can do. No experience needed.",
+
+  "email": "[hello@youracademy.org]",
+  "phone": "[+00 00000 00000]",
+  "whatsapp_number": "[0000000000]",
+
+  "ground_name": "[Ground or School Name]",
+  "address_line": "[Street address]",
+  "address_city": "[City, Postcode]",
+  "maps_url": "[https://maps.google.com/?q=your+ground]",
+  "maps_embed_url": "",
+
+  "training_days": "[Saturdays and Wednesdays]",
+  "training_time": "[9:00am - 11:00am]",
+  "training_season": "[March to October]",
+  "age_range": "[8 to 17]",
+  "cost_line": "[Free for the first term, then a small subscription - and nobody is turned away over cost]",
+  "kit_line": "[Comfortable sports clothes and trainers. We lend out bats, pads and helmets.]",
+  "founded_year": "[20XX]",
+
+  "stats": {
+    "girls_trained": "[120]",
+    "girls_trained_label": "girls have trained with us",
+    "volunteer_coaches": "[18]",
+    "volunteer_coaches_label": "volunteer coaches and helpers",
+    "sessions": "[240]",
+    "sessions_label": "training sessions run",
+    "years": "[6]",
+    "years_label": "years of girls' cricket"
+  },
+
+  "social": {
+    "instagram": "[https://instagram.com/youracademy]",
+    "facebook": "[https://facebook.com/youracademy]",
+    "youtube": "",
+    "x": ""
+  },
+
+  "_form_comment": "The forms POST here. Paste a Formspree, Basin, Netlify or Google Forms endpoint. Left empty, forms fall back to opening the visitor's email app so nothing is ever lost.",
+  "form_endpoint": "",
+
+  "site_url": "[https://youracademy.org]"
+}
