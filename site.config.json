@@ -1,13 +1,12 @@
 {
   "_comment": "Every real detail on the website comes from this file. Anything wrapped in [square brackets] is a placeholder waiting for your information - search the built site for '[' to find any you have missed. Change a value here, run `python build.py`, and it updates on every page.",
 
-  "academy_name": "[Academy Name] Girls Cricket Academy",
-  "short_name": "[Academy Name]",
+  "academy_name": "HerSpace Girls Cricket Academy",
+  "short_name": "HerSpace",
   "tagline": "Where girls play, grow and belong.",
   "default_description": "A volunteer-led cricket academy for girls. Come and learn the game, make friends, and find out what you can do. No experience needed.",
 
   "email": "[hello@youracademy.org]",
-  "phone": "[+00 00000 00000]",
   "whatsapp_number": "[0000000000]",
 
   "ground_name": "[Ground or School Name]",
