@@ -2,47 +2,32 @@
   "_comment": "Every real detail on the website comes from this file. Anything wrapped in [square brackets] is a placeholder waiting for your information - search the built site for '[' to find any you have missed. Change a value here, run `python build.py`, and it updates on every page.",
 
   "academy_name": "HerSpace Girls Cricket Academy",
-  "short_name": "HerSpace",
   "tagline": "Where girls play, grow and belong.",
   "default_description": "A volunteer-led cricket academy for girls. Come and learn the game, make friends, and find out what you can do. No experience needed.",
 
-  "email": "[hello@youracademy.org]",
-  "whatsapp_number": "[0000000000]",
+  "email": " teehjcharity@gmail.com",
+  "whatsapp_number": "0758001484",
 
-  "ground_name": "[Ground or School Name]",
-  "address_line": "[Street address]",
-  "address_city": "[City, Postcode]",
-  "maps_url": "[https://maps.google.com/?q=your+ground]",
-  "maps_embed_url": "",
+  "ground_name": "Hodari Lavington",
+  "address_city": "Nairobi, Kenya",
 
   "training_days": "[Saturdays and Wednesdays]",
   "training_time": "[9:00am - 11:00am]",
-  "training_season": "[March to October]",
   "age_range": "[8 to 17]",
-  "cost_line": "[Free for the first term, then a small subscription - and nobody is turned away over cost]",
-  "kit_line": "[Comfortable sports clothes and trainers. We lend out bats, pads and helmets.]",
-  "founded_year": "[20XX]",
 
   "stats": {
-    "girls_trained": "[120]",
-    "girls_trained_label": "girls have trained with us",
-    "volunteer_coaches": "[18]",
-    "volunteer_coaches_label": "volunteer coaches and helpers",
-    "sessions": "[240]",
-    "sessions_label": "training sessions run",
-    "years": "[6]",
-    "years_label": "years of girls' cricket"
+    "girls_trained": "[20]",
+    "girls_trained_label": "girls training with us and we are growing",
   },
 
   "social": {
-    "instagram": "[https://instagram.com/youracademy]",
-    "facebook": "[https://facebook.com/youracademy]",
-    "youtube": "",
-    "x": ""
+    "instagram": "https://www.instagram.com/herspace_cricket_academy/",
+    "Tiktok": "https://www.tiktok.com/@tiaracoach",
+    "youtube": "https://www.youtube.com/@HerSpacecricket",
   },
 
   "_form_comment": "The forms POST here. Paste a Formspree, Basin, Netlify or Google Forms endpoint. Left empty, forms fall back to opening the visitor's email app so nothing is ever lost.",
   "form_endpoint": "",
 
-  "site_url": "[https://youracademy.org]"
+  "site_url": "[https://HerSpaceCricketAcademy.org]"
 }
