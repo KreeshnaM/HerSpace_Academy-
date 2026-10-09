@@ -1,4 +1,4 @@
-# [Academy Name] Girls Cricket Academy — website
+# HerSpace Girls Cricket Academy — website
 
 A static website. No Node, no npm, no build tools to install — just Python 3,
 which this machine already has.
